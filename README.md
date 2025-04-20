@@ -48,6 +48,27 @@ Medichain combines:
 - Integrate with ABDM
 - Expand pilot projects in Tier-2 cities
 
+## Project Setup
+To set up the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd Medichain
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open the application in your browser at `http://localhost:5173`.
+
 ## Contact
 For more information, please refer to the research paper or contact the team.
 
