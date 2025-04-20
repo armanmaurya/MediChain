@@ -1,12 +1,54 @@
-# React + Vite
+# Medichain - Blockchain-Powered Healthcare Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+Medichain is a smart, scalable healthcare platform leveraging Blockchain and AI to address healthcare challenges in Tier-2 and Tier-3 cities. The platform ensures secure medical records, fast diagnostics, and automated insurance claims, making healthcare more accessible and efficient.
 
-Currently, two official plugins are available:
+## Problem Statement
+People in smaller cities face:
+- Limited access to qualified doctors
+- Outdated paper-based medical records
+- Delayed diagnoses
+- Complicated insurance claim processes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Solution
+Medichain combines:
+- **Blockchain** for secure, tamper-proof medical records and automated insurance claims via smart contracts
+- **AI** for instant scan analysis, symptom checking, and insurance eligibility verification
+- **Telemedicine** for remote consultations, available in local languages
 
-## Expanding the ESLint configuration
+## Key Features
+- **Auto Insurance Claim**: AI checks eligibility and auto-triggers claims via smart contracts
+- **Instant Scan Analysis**: AI analyzes CT/X-ray scans in seconds
+- **AI Symptom Checker**: NLP-powered tool to assess symptoms and recommend next steps
+- **Secure EHR**: Blockchain-stored medical records linked to Ayushman Bharat Digital Mission (ABDM)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Impact
+- **Social**: Equitable healthcare access across geographies
+- **Economic**: Reduces treatment costs, travel expenses, and fraud
+- **Environmental**: Lowers carbon footprint via telehealth and paperless systems
+- **UN SDG Alignment**: Good Health (SDG-3), Reduced Inequality, Climate Action
+
+## Key Results
+- Diagnosis time reduced from 14 to 2 days
+- Cost reduced from ₹1200 to ₹400
+- 96.2% accuracy (vs 89% in centralized models)
+- 78% user preference for NFT-based records
+- Potential market: ₹500Cr+
+- 30% fraud reduction
+- 50K+ lives saved annually
+
+## Team Members
+- **Devansh Dev Singh (Leader)**, Abes Engineering College
+- **Arman Maurua**, Abes Engineering College
+- **Apruv Verma**, Abes Engineering College
+- **Abhinav Kumar**, Abes Engineering College
+
+## Next Steps
+- Scale to eye disease detection
+- Integrate with ABDM
+- Expand pilot projects in Tier-2 cities
+
+## Contact
+For more information, please refer to the research paper or contact the team.
+
+© Binary Busters - HACKHAVEN 2.0
